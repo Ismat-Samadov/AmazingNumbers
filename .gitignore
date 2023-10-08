@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Amazing Numbers/*
+!/Amazing Numbers/task/
+/Amazing Numbers/task/*
+!/Amazing Numbers/task/src
